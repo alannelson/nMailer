@@ -1,0 +1,8 @@
+
+#config file
+[server]
+username = "you@youremail.com"
+password = "Secret-Password_1!"
+hostname = "emailprovider.com"
+smtpport = 777
+setSSLonConnect = true
